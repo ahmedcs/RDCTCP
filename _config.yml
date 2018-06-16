@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: Receive Window based DCTCP 
+description: This project aims at developing an hypervisor-based DCTCP using Receive Window in data centers
+author: Ahmed MOHAMED ABDELMONIEM SAYED
+author_email: ahmedcs982@gmail.com
